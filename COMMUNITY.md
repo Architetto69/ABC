@@ -18,4 +18,3 @@ La tecnologia e l'automazione intelligente non devono tradursi in disoccupazione
 ## 3. Gestione della Psicologia Collettiva e Antifragilità
 *   **Trasparenza Informativa:** In scenari di crisi o panico sociale, l'infrastruttura algoritmica open-source garantisce la continuità dei flussi informativi pubblici, disinnescando la propaganda di guerra e la disinformazione centralizzata.
 *   **Logistica della Sopravvivenza:** Coordinamento decentralizzato delle risorse di base (alimentari, energetiche, mediche) per garantire la calma e la resilienza psicologica della popolazione attraverso la certezza matematica della distribuzione.
-*   
