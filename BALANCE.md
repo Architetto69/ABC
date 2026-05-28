@@ -30,5 +30,7 @@ La sostituzione della classe politica è inefficace se non si interviene sull'al
 
 ### C. Protocollo di Subentro Parallelo ("Shadow Transition")
 Per prevenire azioni di sabotaggio amministrativo, distruzione di archivi o blocco preventivo dei flussi pubblici da parte dell'apparato burocratico durante la fase di transizione, il framework opera in due tempi:
-1.  **Fase Shadow:** L'infrastruttura algoritmica pubblica e la rete delle eccellenze mappano i flussi dello Stato dall'esterno, in modalità protetta e speculare, senza interazione diretta con i vertici attuali.
-2.  **Fase di Cut-Off:** Al superamento della soglia critica, si attiva la disconnessione immediata delle vecchie credenziali di accesso alle infrastrutture critiche dello Stato. I nodi della rete delle eccellenze subentrano nella gestione dei dipartimenti entro un termine perentorio di 72 ore, garantendo la continuità dei servizi essenziali senza mediazione burocratica.
+
+1.  **Fase Shadow ed Estrazione del Know-How:** L'infrastruttura algoritmica pubblica e la rete delle eccellenze mappano i flussi dello Stato dall'esterno, in modalità protetta e speculare. In questa fase, l'IA esegue un'operazione di *reverse-engineering* delle mansioni apicali: digerisce la prassi amministrativa non scritta e la traduce in flussi procedurali pre-compilati e interfacce decisionali semplificate per i nuovi validatori umani, annullando l'asimmetria informativa dei vecchi burocrati.
+2.  **Fase di Cut-Off:** Al superamento della soglia critica, si attiva la disconnessione immediata delle vecchie credenziali di accesso alle infrastrutture critiche dello Stato. I nodi della rete delle eccellenze subentrano nella gestione dei dipartimenti entro un termine perentorio di 72 ore, guidati dalle plance di comando pre-configurate dall'IA, garantendo la continuità assoluta dei servizi essenziali senza blocchi operativi.
+
